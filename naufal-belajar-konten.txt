@@ -1,0 +1,7 @@
+RENCANA BELAJAR NAUFAL
+
+-PHP
+*PHP 8
+*Framework Laravel
+-Javascript
+-Css
