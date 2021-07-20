@@ -1,7 +1,8 @@
 RENCANA BELAJAR NAUFAL
 
 -PHP
-*PHP 8
-*Framework Laravel
+ *PHP 8
+ *Framework Laravel
+-Mysql
 -Javascript
 -Css
